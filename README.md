@@ -1,2 +1,3 @@
-# Jona-Portfolio
+# Personal Portfolio Website
+
 jona's portfolio page
